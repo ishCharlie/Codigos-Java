@@ -1,0 +1,1 @@
+programa que te dice si las palabras son mayusculas o minuculas
