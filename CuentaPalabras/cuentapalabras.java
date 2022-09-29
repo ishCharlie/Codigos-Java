@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 
-public class minusmayus
+public class cuentapalabras
 {
 public static void main(String[] args) {
 Scanner lector = new Scanner (System.in);
